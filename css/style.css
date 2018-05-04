@@ -1,0 +1,27 @@
+body { background-color:#E0F2F1;}
+header { margin-top: 30px; }
+header a { color: black; 
+	text-decoration: none;
+	text-align: center; }
+header a:hover { text-decoration: none; }
+form { margin-top: 20px; }
+form, #results { padding: 0 20px; }
+.item { margin-bottom: 25px; }
+.w100 { width: 100%; }
+#mapa{
+	width: 900px;
+	height: 300px;	
+	align-content: center;
+}
+.btn-primary 
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus 
+a.twitter-share-button {
+    text-decoration: none;
+padding: 10px;
+font-weight: 300;
+font-size: 13px;
+color: #ffffff;
+background-color: #1883ba;
+border-radius: 5px;
+border: 1px solid #0016b0;
+}
